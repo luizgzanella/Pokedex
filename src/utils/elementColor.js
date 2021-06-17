@@ -1,0 +1,18 @@
+export const elementColor = {
+  grass: '#62b957',
+  poison: '#a552cc',
+  fire: '#fd7d24',
+  flying: '#748fc9',
+  water: '#4a90da',
+  bug: '#8cb230',
+  normal: '#9da0aa',
+  electric: '#eed535',
+  ground: '#dd7748',
+  fairy: '#ed6ec7',
+  fighting: '#d04164',
+  defaultColor: '#242222',
+  ice: '#61CEC0',
+  psychic: '#EA5D60',
+  ghost: '#556AAE',
+  dragon: '#0F6AC0',
+};

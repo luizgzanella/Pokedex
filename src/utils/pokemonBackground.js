@@ -1,0 +1,18 @@
+export const pokemonBackground = {
+  grass: '#8bbe8a',
+  fire: '#ffa756',
+  water: '#58abf6',
+  bug: '#8bd674',
+  normal: '#b5b9c4',
+  poison: '#9f6e97',
+  electric: '#f2cb55',
+  ground: '#f78551',
+  fairy: '#eba8c3',
+  fighting: '#eb4971',
+  defaultColor: '#464343',
+  ice: '#61CEC0',
+  psychic: '#EA5D60',
+  ghost: '#556AAE',
+  dragon: '#0F6AC0',
+  flying: '#748fc9',
+};
